@@ -1,9 +1,10 @@
 /**
- * Created by Nikola Yotov on 04.2016. Contact me at nikolaiotov96@gmail.com
+ * Created by Nikola Yotov on 04.2016. Contact me at nikolayotov96@gmail.com
  * 1st year university final project: Animation maker for the Micro:Bit computer
  * A desktop program that simulates the screen of a Micro:Bit device.
- * It allows the user to create, view, save and export animations and pictures in a special format that can be played on the Micro:Bit.
- * I wrote this during the dawn of my programming journey so don't judge it too hard. I know the code is far from the most elegant solution ever :)
+ * It allows the user to create, view, save and export animations frame by frame and pictures in a special format that can be played on the Micro:Bit.
+ * I wrote this during the dawn of my programming journey so don't judge it too hard. :)
+ * UI is done using java swing
  */
 
 
